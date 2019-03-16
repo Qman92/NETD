@@ -1,0 +1,12 @@
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\bin\Debug\CarInventory.exe.config
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\bin\Debug\CarInventory.exe
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\bin\Debug\CarInventory.pdb
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\bin\Debug\CarInventory.xml
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.vbprojAssemblyReference.cache
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.frmCarInventory.resources
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.Resources.resources
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.vbproj.GenerateResource.cache
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.vbproj.CoreCompileInputs.cache
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.exe
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.xml
+C:\Users\pcqed\Desktop\CarInventory\CarInventory\obj\Debug\CarInventory.pdb
