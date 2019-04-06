@@ -1,0 +1,12 @@
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojAssemblyReference.cache
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.cache
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.CoreCompileInputs.cache
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\pcqed\Desktop\TextEditor\TextEditor\obj\Debug\TextEditor.frmTextEditor.resources
